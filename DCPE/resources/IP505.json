@@ -1,0 +1,17 @@
+{
+   "productCategory":1,
+   "receiptFromDate":" 2013-07-07T00:00:00Z",
+   "receiptToDate":"2013-07-07T23:59:59Z ",
+   "receiptBranch":"HO",
+   "branchCounter":"123",
+   "contractNo":"HO",
+   "chequebankCode":"144444",
+   "chequebankBranchCode":"HO",
+   "chequeNo":"122525",
+   "receiptUser":"CC001",
+   "receipts":[
+      {
+         "receiptNo":"12121"
+      }
+   ]
+}

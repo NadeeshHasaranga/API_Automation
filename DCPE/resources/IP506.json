@@ -1,0 +1,20 @@
+{
+  "productCategory":1,
+  "receiptBranch": "707",
+  "receiptFromDate": "2016-08-30T18:25:43.511Z",
+  "receiptToDate": "2017-06-23T18:25:43.511Z",
+  "branchCounter": "123",
+  "chequebankCode": "7054",
+  "chequebankBranchCode": "505",
+  "chequeNo": "725656",
+  "contractNo": "60714800",
+  "receiptUser": "007",
+  "receipts": [
+    {
+      "receiptNo": "DBPPDSC00058737" 
+    },
+     {
+      "receiptNo": "DBPPDSC00058739" 
+    }
+  ]
+}
