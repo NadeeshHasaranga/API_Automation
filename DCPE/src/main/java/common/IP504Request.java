@@ -2,8 +2,7 @@ package common;
 
 public class IP504Request {
 	int productCategory;
-	//int sbu;
-	int sbuu;
+	int sbu;
 	int productType;
 	String contractNo;
 	
